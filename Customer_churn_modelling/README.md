@@ -22,8 +22,4 @@
  
  ## Используемые библиотеки
  
- *pandas*
-
- *numpy*
-
- *sklearn*
+ *pandas*, *numpy*, *sklearn*
