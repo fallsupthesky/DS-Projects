@@ -11,4 +11,4 @@
 
  ## Используемые библиотеки
  
- *pandas*, *nltk*, *sklearn*,  *lightgbm*, *re*
+ *pandas*, *nltk*, *sklearn*,  *lightgbm*
