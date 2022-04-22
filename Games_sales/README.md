@@ -20,4 +20,4 @@
  
  ## Используемые библиотеки
  
- *pandas*, *numpy*, *math*, *scipy*, *mathplotlib*
+ *pandas*, *numpy*, *math*, *scipy*, *matplotlib*
